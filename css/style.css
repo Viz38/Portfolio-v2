@@ -1264,16 +1264,6 @@ label {
     margin: 25px;
 }
 
-.statsonline {
-    display: flex;
-    justify-content: flex-start;
-    align-items: flex-start;
-    align-content: flex-start;
-    flex-wrap: wrap;
-    height: auto;
-    width: 100%;
-}
-
 
 /****************************************
   Bar directly below the maintitles 
