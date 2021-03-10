@@ -913,9 +913,16 @@ td.darkrow2 {
     height: 50%;
     padding-bottom: 10px;
     border: 1px solid var(--charcoal);
-    background: url('../assets/Demo.gif');
+    background: url('../assets/work/temp-pc.gif');
     background-size: contain;
     overflow: hidden;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 600px) {
+    .forumimg {
+        background: url('../assets/work/temp-m.gif');
+    }
 }
 
 .forumcont:hover .forumsubs {
