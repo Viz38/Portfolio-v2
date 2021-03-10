@@ -919,7 +919,7 @@ td.darkrow2 {
     background-repeat: no-repeat;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     .forumimg {
         background: url('../assets/work/temp-m.gif');
     }
